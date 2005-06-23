@@ -1,0 +1,7 @@
+Build.PL
+Changes
+lib/Tie/Senna.pm
+MANIFEST			This list of files
+t/01-sanity.t
+t/02-basic.t
+META.yml
