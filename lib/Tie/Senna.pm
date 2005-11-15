@@ -1,13 +1,13 @@
-# $Id$
+# $Id: Senna.pm 2 2005-11-15 15:43:07Z daisuke $
 #
-# Daisuke Maki <dmaki@cpan.org>
+# Copyright (c) 2005 Daisuke Maki <dmaki@cpan.org>
 # All rights reserved.
 
 package Tie::Senna;
 use strict;
 use base qw(Tie::Hash);
 use Senna;
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
 sub TIEHASH
 {
